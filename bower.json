@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "main": "app.js",
+  "version": "0.0.0",
+  "authors": [
+    "Rick <rick@saltyslopes.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "braintree-web": "~2.15.1"
+  }
+}

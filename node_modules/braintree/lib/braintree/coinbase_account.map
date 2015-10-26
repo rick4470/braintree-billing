@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "coinbase_account.js",
+  "sourceRoot": "",
+  "sources": [
+    "coinbase_account.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,4BAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AAEd,CAFN;CAGC;CAAA;;CAAc,CAAA,CAAA,OAAA,eAAC;CACZ,GAAA,MAAA,uCAAM;CADT,EAAc;;CAAd;;CAD6B;;AAI9B,CANA,EAM0B,IAAnB,QAAP"
+}

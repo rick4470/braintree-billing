@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "venmo_sdk.js",
+  "sourceRoot": "",
+  "sources": [
+    "venmo_sdk.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,cAAA;CAAA;AAAA,CAAA,EAAW,GAAA,EAAX,CAAY;CAAD,EACC,IAAV,EAAA;CADS;;AAGX,CAHA,EAGW,KAAX;CAAW,CACT,MADS,qBACT;CADS,CAET,MAAuB,UAAA,GAAvB;CAFS,CAGT,sBAAA,UAHS;CAAA,CAIT,KAAA,OAJS;CAAA,CAKT,YAAA,QALS;CAHX,CAAA;;AAWA,CAXA,EAWmB,IAAZ,CAAP"
+}

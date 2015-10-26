@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "attribute_setter.js",
+  "sourceRoot": "",
+  "sources": [
+    "attribute_setter.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,WAAA;CAAA;AAAM,CAAN;CACC;CAAc,CAAA,CAAA,OAAA,eAAC;CACZ,OAAA,EAAA;AAAA,CAAA,QAAA,QAAA;+BAAA;CACE,EAAE,CAAA,CAAF,CAAA;CADF,IADW;CAAd,EAAc;;CAAd;;CADD;;AAKA,CALA,EAK0B,IAAnB,QAAP"
+}

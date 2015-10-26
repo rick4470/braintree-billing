@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "customer_search.js",
+  "sourceRoot": "",
+  "sources": [
+    "customer_search.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,0BAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAmB,IAAA,OAAnB,KAAmB;;AAEb,CAFN;CAGE;CAAA;;;;CAAA;;CAAA,CAAA,EAAA,CAAA,EAAA,EAAA,CAAA,CAAA,GAAC,CAAD,CAAA,CAAA,CAAA,CAAA,CAAA,EAAA,EAAA,UAAA;;CAAA,CAuBA,YAAC,YAAD;;CAvBA,CAwBA,YAAC,IAAD;;CAxBA,CAyBA,GAAA,SAAC,IAAD;;CAzBA,CA0BA,SAAA,GAAC;;CA1BD;;CAD2B;;AA6B7B,CA/BA,EA+ByB,IAAlB,OAAP"
+}

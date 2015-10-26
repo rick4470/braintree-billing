@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "disbursement_details.js",
+  "sourceRoot": "",
+  "sources": [
+    "disbursement_details.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,gCAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AAEd,CAFN;CAGC;CAAA;;;;CAAA;;CAAA,EAAU,IAAT,EAAS;CAAA,UACP;CADH,EAAU;;CAAV;;CADiC;;AAIlC,CANA,EAM8B,IAAvB,YAAP"
+}

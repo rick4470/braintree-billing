@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "transaction_amounts.js",
+  "sourceRoot": "",
+  "sources": [
+    "transaction_amounts.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,cAAA;CAAA;AAAA,CAAA,EACC,eADD;CACC,CAAC,OAAA;CAAD,CACC,KAAA,EADD;CAAA,CAEC,EAAA,KAFD;CADD,CAAA;;AAKA,CALA,EAK6B,IAAtB,WAAP"
+}

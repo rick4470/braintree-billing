@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "plan.js",
+  "sourceRoot": "",
+  "sources": [
+    "plan.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,iBAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AAEd,CAFN;CAEA;CAAA;;;;CAAA;;CAAA;;CAAmB;;AAEnB,CAJA,EAIe,CAAf,GAAO"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "address.js",
+  "sourceRoot": "",
+  "sources": [
+    "address.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,oBAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AAEd,CAFN;CAEA;CAAA;;;;CAAA;;CAAA;;CAAsB;;AAEtB,CAJA,EAIkB,IAAX"
+}

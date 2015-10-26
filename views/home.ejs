@@ -1,0 +1,49 @@
+<md-content layout="column">
+	<form name="form" action="/subscribe" method="post" style="max-width: 300px;">
+		<div>
+			<span>Subscribe Today</span>
+		</div>
+
+		<div layout="row">
+			<p>Choose a plan below to get started.</p>
+		</div>
+
+		<div layout="row">
+			<p>Your credit card information will not interact with our servers.</p>
+		</div>
+
+		<div layout="row">
+			<div>
+				<a href="https://www.braintreegateway.com/merchants/YOUR_MERCHANT_ID/verified" target="_blank">
+					<img src="https://s3.amazonaws.com/braintree-badges/braintree-badge-wide-dark.png" width="100%" border="0" />
+				</a>
+			</div>
+		</div>
+
+		<div layout="row" style="padding-top:10px;">
+			<select name="plan">
+				<% data.plans.forEach(function(plan) { %>
+					<option value="<%= plan.id%>">
+						$
+						<%= plan.name%>
+					</option>
+					<% }); %>
+			</select>
+		</div>
+
+		<div id="dropin" style="padding-top:10px;">
+		</div>
+
+		<div layout="row" style="padding-top:10px;">
+			<button type="submit">Subscribe</button>
+		</div>
+
+	</form>
+</md-content>
+
+<% if (data.token) { %>
+	<script>
+		var token = "<%= data.token %>";
+
+	</script>
+	<% } %>

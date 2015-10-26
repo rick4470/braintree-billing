@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "validation_error.js",
+  "sourceRoot": "",
+  "sources": [
+    "validation_error.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,WAAA;CAAA;AAAM,CAAN;CACC;CAAc,CAAA,CAAA,EAAA,oBAAC;CACZ,EAAa,CAAb,CAAkB,IAAlB;CAAA,EACQ,CAAR,CAAa;CADb,EAEW,CAAX,CAAgB,EAAhB;CAHH,EAAc;;CAAd;;CADD;;AAMA,CANA,EAM0B,IAAnB,QAAP"
+}

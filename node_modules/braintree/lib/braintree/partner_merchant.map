@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "partner_merchant.js",
+  "sourceRoot": "",
+  "sources": [
+    "partner_merchant.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,4BAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AAEd,CAFN;CAEA;CAAA;;;;CAAA;;CAAA;;CAA8B;;AAG9B,CALA,EAK0B,IAAnB,QAAP"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "risk_data.js",
+  "sourceRoot": "",
+  "sources": [
+    "risk_data.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,qBAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AAEd,CAFN;CAGC;CAAA;;CAAc,CAAA,CAAA,OAAA,QAAC;CACZ,GAAA,MAAA,gCAAM;CADT,EAAc;;CAAd;;CADsB;;AAIvB,CANA,EAMmB,IAAZ,CAAP"
+}

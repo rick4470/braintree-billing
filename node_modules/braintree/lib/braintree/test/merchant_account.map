@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "merchant_account.js",
+  "sourceRoot": "",
+  "sources": [
+    "merchant_account.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,eAAA;CAAA;AAAA,CAAA,EAAsB,gBAAtB;CAAsB,CACrB,KAAA,KADqB;CAAA,CAErB,wBAAA,GAFqB;CAAA,CAGrB,2BAAA,IAHqB;CAAA,CAIrB,qBAJqB,aAIrB;CAJqB,CAKrB,cAAA,KALqB;CAAtB,CAAA;;AAQA,CARA,EAQ8B,IAAvB,YAAP"
+}

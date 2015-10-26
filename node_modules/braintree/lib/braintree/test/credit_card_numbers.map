@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "credit_card_numbers.js",
+  "sourceRoot": "",
+  "sources": [
+    "credit_card_numbers.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,aAAA;CAAA;AAAA,CAAA,EACC,cADD;CACC,CAAC,gBAAA;CAAqB,CACC,EAApB,GAAA,WADmB;CAAA,CAEC,EAApB,MAAA,QAFmB;CAAA,CAGC,EAApB,GAAA,WAHmB;CAAA,CAIC,EAApB,MAAA,QAJmB;CAAA,CAKC,EAApB,WAAA,GALmB;CAAA,CAMC,EAApB,CAAA,aANmB;CAAA,CAOC,EAApB,GAAA,WAPmB;CAAA,CAQnB,EAAA,cARmB;CAAA,CASC,EAApB,OAAA,OATmB;CAAA,CAUC,EAApB,aAAA,CAVmB;CAAA,CAWC,EAApB,CAAA,aAXmB;IAAtB;CADD,CAAA;;AAeA,CAfA,EAe4B,IAArB,UAAP"
+}

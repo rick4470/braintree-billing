@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "settlement_batch_summary.js",
+  "sourceRoot": "",
+  "sources": [
+    "settlement_batch_summary.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,mCAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AAEd,CAFN;CAEA;CAAA;;;;CAAA;;CAAA;;CAAqC;;AAErC,CAJA,EAIiC,IAA1B,eAAP"
+}

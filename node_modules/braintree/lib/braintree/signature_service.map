@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "signature_service.js",
+  "sourceRoot": "",
+  "sources": [
+    "signature_service.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,YAAA;CAAA;AAAM,CAAN;CAEC;CAAc,CAAA,CAAA,SAAA,cAAC;CACZ,EAAA,CAAA;CAAA,EACgB,CAAhB,QAAA;CAFH,EAAc;;CAAd,EAIO,CAAN,KAAO;CACH,CAAF,CAAE,CAAC,OAAH,CAAE;CALL,EAIO;;CAJP;;CAFD;;AASA,CATA,EAS2B,IAApB,SAAP"
+}

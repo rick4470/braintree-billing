@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "paypal_account.js",
+  "sourceRoot": "",
+  "sources": [
+    "paypal_account.coffee"
+  ],
+  "names": [],
+  "mappings": ";;AAAA,IAAA,0BAAA;GAAA;kSAAA;CAAA;AAAC,CAAD,EAAoB,IAAA,QAApB,KAAoB;;AAEd,CAFN;CAGC;CAAA;;CAAc,CAAA,CAAA,OAAA,aAAC;CACZ,GAAA,MAAA,qCAAM;CADT,EAAc;;CAAd;;CAD2B;;AAI5B,CANA,EAMwB,IAAjB,MAAP"
+}
