@@ -3,7 +3,7 @@ This is the repository that is used for this [guide](http://codewithintent.com/h
 
 #### Running the application
 * Clone the repository
-	`git clone https://github.com/commercefactory/017-braintree-subscription-node.git`
+	`git clone https://github.com/rick4470/braintree-billing.git`
 * Install npm requirements
 	`npm install`
 * Install bower requirements
